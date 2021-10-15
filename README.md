@@ -1,2 +1,2 @@
 # Python-For-Data-Science
-This repository has exercises related to PYTHON 
+This repository has exercises and programs related to PYTHON 
